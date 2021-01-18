@@ -1,0 +1,57 @@
+.titre{
+    font-weight: bold;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.copyright{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+hr{
+    width: 30%;
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.photo1{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.description{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Josefin Sans', sans-serif;
+    margin-top: 40px;
+}
+.logoinsta{
+    width: 30px;
+    height: auto;
+    max-width: max-content;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.copyright2{
+    float: right;
+    margin-right: 50px;
+    font-style: italic;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    text-decoration: none;
+    color: black;
+}
